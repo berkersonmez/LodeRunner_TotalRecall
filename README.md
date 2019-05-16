@@ -92,3 +92,5 @@ This program build with Javascript + [CreateJS](http://www.createjs.com).
 <a target="_blank" href="http://loderunnerwebgame.com/game/">http://loderunnerwebgame.com/game/</a>
 
 ------------------------------------
+
+<p>To run: python3 -m http.server 7200</p>
